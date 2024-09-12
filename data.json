@@ -1,0 +1,121 @@
+{
+    "user": [
+        {
+            "name": "Shubham",
+            "email": "Shubhamthite09@gmail.com",
+            "phone": "8805991079",
+            "password": "Test1234"
+        }
+    ],
+    "friends": [
+        {
+            "id": "_q31q8ol4z",
+            "name": "Friend 1"
+        },
+        {
+            "id": "_xbebpsdxn",
+            "name": "Friend 2"
+        },
+        {
+            "id": "_4n3vuzith",
+            "name": "Friend 3"
+        },
+        {
+            "id": "_hrjltvl4k",
+            "name": "Friend 4"
+        }
+    ],
+    "transactions": [
+        {
+            "id": "_dyn5wjk7k",
+            "created_date": "2024-08-30 14:25:11",
+            "reason": "Resin 1",
+            "splitUsers": [
+                {
+                    "id": "_q31q8ol4z",
+                    "name": "Friend 1"
+                },
+                {
+                    "id": "_xbebpsdxn",
+                    "name": "Friend 2"
+                },
+                {
+                    "id": "_4n3vuzith",
+                    "name": "Friend 3"
+                }
+            ],
+            "splitEvenly": false,
+            "paidBy": "Friend 1",
+            "amount": 10,
+            "tripId": "_3lseesuum"
+        },
+        {
+            "id": "_pp2zr6rid",
+            "created_date": "2024-08-30 14:25:33",
+            "reason": "Reson 2",
+            "splitUsers": [
+                {
+                    "id": "_q31q8ol4z",
+                    "name": "Friend 1"
+                },
+                {
+                    "id": "_xbebpsdxn",
+                    "name": "Friend 2"
+                },
+                {
+                    "id": "_4n3vuzith",
+                    "name": "Friend 3"
+                }
+            ],
+            "splitEvenly": false,
+            "paidBy": "Friend 1",
+            "amount": 10,
+            "tripId": "_3lseesuum"
+        },
+        {
+            "id": "_ly035hzvg",
+            "created_date": "2024-08-30 14:25:48",
+            "reason": "Reson 3",
+            "splitUsers": [
+                {
+                    "id": "_q31q8ol4z",
+                    "name": "Friend 1"
+                },
+                {
+                    "id": "_xbebpsdxn",
+                    "name": "Friend 2"
+                },
+                {
+                    "id": "_4n3vuzith",
+                    "name": "Friend 3"
+                }
+            ],
+            "splitEvenly": false,
+            "paidBy": "Friend 2",
+            "amount": 10,
+            "tripId": "_3lseesuum"
+        }
+    ],
+    "trips": [
+        {
+            "id": "_3lseesuum",
+            "created_date": "2024-08-30 14:24:48",
+            "name": "Test1",
+            "friends": [
+                {
+                    "id": "_q31q8ol4z",
+                    "name": "Friend 1"
+                },
+                {
+                    "id": "_xbebpsdxn",
+                    "name": "Friend 2"
+                },
+                {
+                    "id": "_4n3vuzith",
+                    "name": "Friend 3"
+                }
+            ],
+            "balance": 0
+        }
+    ]
+}
