@@ -1,0 +1,78 @@
+2024-09-11 08:38:53 [INFO]: Main server running on port 3001
+2024-09-11 11:37:54 [INFO]: Main server running on port 3001
+2024-09-11 20:12:42 [INFO]: Main server running on port 3001
+2024-09-11 20:13:16 [INFO]: Main server running on port 3001
+2024-09-11 20:15:49 [INFO]: Main server running on port 3001
+2024-09-11 20:15:53 [INFO]: Main server running on port 3001
+2024-09-11 20:15:55 [INFO]: Main server running on port 3001
+2024-09-11 20:15:57 [INFO]: Main server running on port 3001
+2024-09-11 20:16:03 [INFO]: Main server running on port 3001
+2024-09-11 20:16:05 [INFO]: Main server running on port 3001
+2024-09-11 20:16:59 [INFO]: Request: GET / at 2024-09-11T14:46:59.599Z
+2024-09-11 20:16:59 [INFO]: 200 OK response from main server
+2024-09-11 20:16:59 [INFO]: Response: 200 for GET / at 2024-09-11T14:46:59.618Z
+2024-09-11 20:16:59 [INFO]: Request: GET /favicon.ico at 2024-09-11T14:46:59.639Z
+2024-09-11 20:16:59 [INFO]: 200 OK response from main server
+2024-09-11 20:16:59 [INFO]: Response: 200 for GET /favicon.ico at 2024-09-11T14:46:59.640Z
+2024-09-11 20:17:30 [INFO]: Main server running on port 3001
+2024-09-11 20:17:44 [INFO]: Request: GET / at 2024-09-11T14:47:44.762Z
+2024-09-11 20:17:44 [INFO]: 200 OK response from main server
+2024-09-11 20:17:44 [INFO]: Response: 200 for GET / at 2024-09-11T14:47:44.769Z
+2024-09-11 20:32:48 [INFO]: Main server running on port 3001
+2024-09-11 20:33:00 [INFO]: Main server running on port 3001
+2024-09-11 20:33:34 [INFO]: Main server running on port 3001
+2024-09-11 20:33:39 [INFO]: Main server running on port 3001
+2024-09-11 20:33:42 [INFO]: Main server running on port 3001
+2024-09-11 20:33:50 [INFO]: Main server running on port 3001
+2024-09-11 20:34:06 [INFO]: Main server running on port 3001
+2024-09-11 20:34:14 [INFO]: Main server running on port 3001
+2024-09-11 20:34:20 [INFO]: Main server running on port 3001
+2024-09-11 20:34:23 [INFO]: Main server running on port 3001
+2024-09-11 20:35:28 [INFO]: Main server running on port 3001
+2024-09-11 20:36:17 [INFO]: Main server running on port 3001
+2024-09-11 20:36:50 [INFO]: Main server running on port 3001
+2024-09-11 20:36:53 [INFO]: Main server running on port 3001
+2024-09-11 20:37:01 [INFO]: Main server running on port 3001
+2024-09-11 20:37:06 [INFO]: Main server running on port 3001
+2024-09-11 20:37:13 [INFO]: Main server running on port 3001
+2024-09-11 20:37:27 [INFO]: Main server running on port 3001
+2024-09-11 20:37:28 [INFO]: Main server running on port 3001
+2024-09-11 20:37:36 [INFO]: Main server running on port 3001
+2024-09-11 20:37:41 [INFO]: Main server running on port 3001
+2024-09-11 20:37:41 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:37:44 [INFO]: Main server running on port 3001
+2024-09-11 20:37:44 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:37:45 [INFO]: Main server running on port 3001
+2024-09-11 20:37:45 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:37:50 [INFO]: Main server running on port 3001
+2024-09-11 20:37:50 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:40:08 [INFO]: Main server running on port 3001
+2024-09-11 20:40:12 [INFO]: Main server running on port 3001
+2024-09-11 20:41:27 [ERROR]: DB Error -------- Error: connect ETIMEDOUT 172.31.10.109:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16)
+2024-09-11 20:50:36 [INFO]: Main server running on port 3001
+2024-09-11 20:50:37 [ERROR]: DB Error -------- error: database "splito" does not exist
+    at Parser.parseErrorMessage (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:35:38)
+    at TLSSocket.<anonymous> (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/index.js:11:42)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23)
+2024-09-11 20:51:34 [INFO]: Main server running on port 3001
+2024-09-11 20:51:35 [ERROR]: DB Error -------- error: password authentication failed for user "splito"
+    at Parser.parseErrorMessage (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:35:38)
+    at TLSSocket.<anonymous> (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/index.js:11:42)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23)

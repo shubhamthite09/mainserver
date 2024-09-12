@@ -1,0 +1,21 @@
+2024-09-10 20:39:35 [INFO]: Main server running on port 3000
+2024-09-10 20:39:40 [INFO]: Main server running on port 3000
+2024-09-10 20:40:01 [INFO]: Request: GET / at 2024-09-10T15:10:01.615Z
+2024-09-10 20:40:01 [INFO]: 200 OK response from main server
+2024-09-10 20:40:01 [INFO]: Response: 200 for GET / at 2024-09-10T15:10:01.619Z
+2024-09-10 20:40:32 [INFO]: Request: GET / at 2024-09-10T15:10:32.574Z
+2024-09-10 20:40:32 [INFO]: 200 OK response from main server
+2024-09-10 20:40:32 [INFO]: Response: 304 for GET / at 2024-09-10T15:10:32.581Z
+2024-09-10 20:40:33 [INFO]: Request: GET /Splito/ at 2024-09-10T15:10:33.774Z
+2024-09-10 20:40:33 [INFO]: Response: 304 for GET /Splito/ at 2024-09-10T15:10:33.776Z
+2024-09-10 20:41:44 [INFO]: Main server running on port 3000
+2024-09-10 20:49:38 [INFO]: Main server running on port 3000
+2024-09-10 20:50:47 [INFO]: Main server running on port 3000
+2024-09-10 20:50:53 [INFO]: Main server running on port 3000
+2024-09-10 20:53:51 [INFO]: Main server running on port 3000
+2024-09-10 20:54:17 [INFO]: Main server running on port 3000
+2024-09-10 20:54:31 [INFO]: Main server running on port 3000
+2024-09-10 20:55:03 [INFO]: Main server running on port 3000
+2024-09-10 20:55:04 [INFO]: Main server running on port 3000
+2024-09-10 20:55:15 [INFO]: Main server running on port 3000
+2024-09-10 20:55:22 [INFO]: Main server running on port 3001

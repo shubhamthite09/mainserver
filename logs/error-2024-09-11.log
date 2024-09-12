@@ -1,0 +1,30 @@
+2024-09-11 20:37:41 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:37:44 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:37:45 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:37:50 [ERROR]: DB Error -------- Error: getaddrinfo ENOTFOUND your_rds_endpoint
+    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)
+2024-09-11 20:41:27 [ERROR]: DB Error -------- Error: connect ETIMEDOUT 172.31.10.109:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1595:16)
+2024-09-11 20:50:37 [ERROR]: DB Error -------- error: database "splito" does not exist
+    at Parser.parseErrorMessage (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:35:38)
+    at TLSSocket.<anonymous> (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/index.js:11:42)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23)
+2024-09-11 20:51:35 [ERROR]: DB Error -------- error: password authentication failed for user "splito"
+    at Parser.parseErrorMessage (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:283:98)
+    at Parser.handlePacket (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:122:29)
+    at Parser.parse (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/parser.js:35:38)
+    at TLSSocket.<anonymous> (/Users/thiteshubham09/Desktop/mainserver/node_modules/pg-protocol/dist/index.js:11:42)
+    at TLSSocket.emit (node:events:518:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TLSWrap.onStreamRead (node:internal/stream_base_commons:190:23)
